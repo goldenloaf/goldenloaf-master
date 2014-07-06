@@ -1,31 +1,32 @@
-## Bulbacoin [BULB]
+## Goldenloaf [GLY]
 
-![BulbaCoin](http://mining-pool.in/images/bulbacoin.png?1)
+![GoldenLoaf](http://mining-pool.in/images/goldenloaf.png?1)
 
-## What is BulbaCoin?
+## What is GoldenLoaf?
 
-Bulbacoin is the Belarus cryptocurrency.
-The total number of coins is 10 million, so that every citizen will be able to get one coin.
 
-https://bitcointalk.org/index.php?topic=661649.0;topicseen
+ОПИСАНИЕ ПОЗЖЕ
+
+
+
 
 ## License
 
-BulbaCoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
+GoldenLoaf is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions
 
 the development team as well as other volunteers can freely work in their own trees , then submit pull requests when they think their feature or bug fix are ready.
-excited about the cyber bulbacoin project, think you can promote bulbacoin with something special by making a contribution to the bulbacoin community
-developing web wallet - android wallet - block explorer - mining progress visualized as a bulba shape. 
+excited about the cyber goldenloaf project, think you can promote goldenloaf with something special by making a contribution to the goldenloaf community
+developing web wallet - android wallet - block explorer - mining progress visualized as a GLY shape. 
 
-if you have any ideas you can offer to the bulbacoin community can help promote bulbacoin Please email us bulbacoin@mining-pool.in
+if you have any ideas you can offer to the goldenloaf community can help promote goldenloaf Please email us goldenloaf@mining-pool.in
 
 ## Specifications
 
 Algoritm - X11
 
-Total coin - 10 362 600 BULB, Premine - 1%, Block time - 40s, retarget every day
+Total coin - 103 840 GLY, Premine - 1000 GLY + 3000 GLY IPO, Block time - 90s, retarget every day
 
 
 
@@ -33,24 +34,22 @@ Total coin - 10 362 600 BULB, Premine - 1%, Block time - 40s, retarget every day
 
 Block reward: <br>
 
-block 1 = premine coins <br>
+block 1 = premine + IPO coins <br>
 
-block 2-20 = 0 BULB <br>
+block 2-20 = 0 GLY <br>
 
-block 21-15140 (1 week) = 50 BULB <br>
+block 21-6740 (1 week) = 1 GLY <br>
 
-block 15141-79940 (1 month)= 25 BULB <br>
+block 6741-35540 (1 month)= 0.5 GLY <br>
 
-block 79941-868340 (1 year) = 5 BULB <br> 
-
-block 868341-4810339 (5 years) = 1 BULB <br>
+block 35541-350419 (11 mont 3 week) = 0.25 GLY <br> 
 
 ## Ports
 
-RPC Port: 35993 <br>
-P2P Port: 35994 <br>
+RPC Port:  <br>
+P2P Port:  <br>
 
 ## Community
 
-forum: https://cryptocointalk.com/topic/12900-bulbacoin-bulb-launched-3-jul-2014/ <br>
+forum:  <br>
 

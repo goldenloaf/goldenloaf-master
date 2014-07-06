@@ -5,12 +5,12 @@ obj/main.o: main.cpp alert.h uint256.h util.h netbase.h serialize.h \
  hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h \
  sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h \
  sph_simd.h sph_echo.h txdb.h leveldb.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/db.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/iterator.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/slice.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/status.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/options.h \
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/write_batch.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/db.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/iterator.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/slice.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/status.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/options.h \
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/write_batch.h \
  init.h wallet.h ui_interface.h walletdb.h base58.h checkqueue.h
 main.cpp alert.h uint256.h util.h netbase.h serialize.h :
  allocators.h version.h clientversion.h compat.h checkpoints.h db.h :
@@ -19,10 +19,10 @@ main.cpp alert.h uint256.h util.h netbase.h serialize.h :
  hashblock.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h :
  sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h :
  sph_simd.h sph_echo.h txdb.h leveldb.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/db.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/iterator.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/slice.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/status.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/options.h :
- /root/~build/wallet/bulbacoin-master/src/leveldb/include/leveldb/write_batch.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/db.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/iterator.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/slice.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/status.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/options.h :
+ /root/~build/wallet/goldenloaf-master/src/leveldb/include/leveldb/write_batch.h :
  init.h wallet.h ui_interface.h walletdb.h base58.h checkqueue.h :

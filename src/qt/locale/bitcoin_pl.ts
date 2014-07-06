@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BulbaCoin</source>
-        <translation>O BulbaCoin</translation>
+        <source>About GoldenLoaf</source>
+        <translation>O GoldenLoaf</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BulbaCoin&lt;/b&gt; version</source>
-        <translation>Wersja &lt;b&gt;BulbaCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;GoldenLoaf&lt;/b&gt; version</source>
+        <translation>Wersja &lt;b&gt;GoldenLoaf&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The BulbaCoin developers</source>
-        <translation>Deweloperzy BulbaCoin</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>Deweloperzy GoldenLoaf</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your BulbaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tutaj znajdują się twoje adresy BulbaCoin do odbioru płatności. Możesz nadać oddzielne adresy dla każdego z wysyłających monety, żeby śledzić oddzielnie ich opłaty.</translation>
+        <source>These are your GoldenLoaf addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tutaj znajdują się twoje adresy GoldenLoaf do odbioru płatności. Możesz nadać oddzielne adresy dla każdego z wysyłających monety, żeby śledzić oddzielnie ich opłaty.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BulbaCoin address</source>
+        <source>Sign a message to prove you own a GoldenLoaf address</source>
         <translation>Podpisz wiadomość aby dowieść, że ten adres jest twój</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified BulbaCoin address</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem BulbaCoin.</translation>
+        <source>Verify a message to ensure it was signed with a specified GoldenLoaf address</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your BulbaCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tutaj znajdują się Twoje adresy BulbaCoin do wysyłania płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
+        <source>These are your GoldenLoaf addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tutaj znajdują się Twoje adresy GoldenLoaf do wysyłania płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BULBACOINS&lt;/b&gt;!</source>
-        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE BULBACOIN&apos;Y&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GOLDENLOAFS&lt;/b&gt;!</source>
+        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE GOLDENLOAF&apos;Y&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>BulbaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bulbacoins from being stolen by malware infecting your computer.</source>
-        <translation>Program BulbaCoin zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich bulbacoinów przed kradzieżą przez wirusy lub trojany mogące zainfekować Twój komputer.</translation>
+        <source>GoldenLoaf will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your goldenloafs from being stolen by malware infecting your computer.</source>
+        <translation>Program GoldenLoaf zamknie się aby dokończyć proces szyfrowania. Pamiętaj, że szyfrowanie portfela nie zabezpiecza w pełni Twoich goldenloafów przed kradzieżą przez wirusy lub trojany mogące zainfekować Twój komputer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BulbaCoin</source>
-        <translation>Pokaż informację o BulbaCoin</translation>
+        <source>Show information about GoldenLoaf</source>
+        <translation>Pokaż informację o GoldenLoaf</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a BulbaCoin address</source>
-        <translation>Wyślij monety na adres BulbaCoin</translation>
+        <source>Send coins to a GoldenLoaf address</source>
+        <translation>Wyślij monety na adres GoldenLoaf</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for BulbaCoin</source>
-        <translation>Zmienia opcje konfiguracji bulbacoina</translation>
+        <source>Modify configuration options for GoldenLoaf</source>
+        <translation>Zmienia opcje konfiguracji goldenloafa</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>BulbaCoin</source>
-        <translation>BulbaCoin</translation>
+        <source>GoldenLoaf</source>
+        <translation>GoldenLoaf</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About BulbaCoin</source>
-        <translation>O BulbaCoin</translation>
+        <source>&amp;About GoldenLoaf</source>
+        <translation>O GoldenLoaf</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your BulbaCoin addresses to prove you own them</source>
+        <source>Sign messages with your GoldenLoaf addresses to prove you own them</source>
         <translation>Podpisz wiadomości swoim adresem aby udowodnić jego posiadanie</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified BulbaCoin addresses</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem BulbaCoin.</translation>
+        <source>Verify messages to ensure they were signed with specified GoldenLoaf addresses</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>BulbaCoin client</source>
-        <translation>BulbaCoin klient</translation>
+        <source>GoldenLoaf client</source>
+        <translation>GoldenLoaf klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to BulbaCoin network</source>
-        <translation><numerusform>%n aktywne połączenie do sieci BulbaCoin</numerusform><numerusform>%n aktywne połączenia do sieci BulbaCoin</numerusform><numerusform>%n aktywnych połączeń do sieci BulbaCoin</numerusform></translation>
+        <source>%n active connection(s) to GoldenLoaf network</source>
+        <translation><numerusform>%n aktywne połączenie do sieci GoldenLoaf</numerusform><numerusform>%n aktywne połączenia do sieci GoldenLoaf</numerusform><numerusform>%n aktywnych połączeń do sieci GoldenLoaf</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Transakcja przekracza limit. Możesz wysłać ją płacąc prowizję %1, która zostaje przekazana do węzłów, które ją prześlą i pomoże wspierać sieć BulbaCoin. Czy chcesz zapłacić prowizję?</translation>
+        <translation>Transakcja przekracza limit. Możesz wysłać ją płacąc prowizję %1, która zostaje przekazana do węzłów, które ją prześlą i pomoże wspierać sieć GoldenLoaf. Czy chcesz zapłacić prowizję?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid BulbaCoin address or malformed URI parameters.</source>
-        <translation>URI nie może zostać przetworzony! Prawdopodobnie błędny adres BulbaCoin bądź nieprawidłowe parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GoldenLoaf address or malformed URI parameters.</source>
+        <translation>URI nie może zostać przetworzony! Prawdopodobnie błędny adres GoldenLoaf bądź nieprawidłowe parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. BulbaCoin can no longer continue safely and will quit.</source>
-        <translation>Błąd krytyczny. BulbaCoin nie może kontynuować bezpiecznie więc zostanie zamknięty.</translation>
+        <source>A fatal error occurred. GoldenLoaf can no longer continue safely and will quit.</source>
+        <translation>Błąd krytyczny. GoldenLoaf nie może kontynuować bezpiecznie więc zostanie zamknięty.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BulbaCoin address.</source>
-        <translation>Wprowadzony adres &quot;%1&quot; nie jest poprawnym adresem BulbaCoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GoldenLoaf address.</source>
+        <translation>Wprowadzony adres &quot;%1&quot; nie jest poprawnym adresem GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>BulbaCoin-Qt</source>
-        <translation>BulbaCoin-Qt</translation>
+        <source>GoldenLoaf-Qt</source>
+        <translation>GoldenLoaf-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BulbaCoin after logging in to the system.</source>
-        <translation>Automatycznie uruchamia BulbaCoin po zalogowaniu do systemu.</translation>
+        <source>Automatically start GoldenLoaf after logging in to the system.</source>
+        <translation>Automatycznie uruchamia GoldenLoaf po zalogowaniu do systemu.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BulbaCoin on system login</source>
-        <translation>Uruchamiaj BulbaCoin wraz z zalogowaniem do &amp;systemu</translation>
+        <source>&amp;Start GoldenLoaf on system login</source>
+        <translation>Uruchamiaj GoldenLoaf wraz z zalogowaniem do &amp;systemu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BulbaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwiera port klienta BulbaCoin na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
+        <source>Automatically open the GoldenLoaf client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwiera port klienta GoldenLoaf na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BulbaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Podłącz się do sieci BulbaCoin przez proxy SOCKS (np. gdy łączysz się poprzez Tor&apos;a)</translation>
+        <source>Connect to the GoldenLoaf network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Podłącz się do sieci GoldenLoaf przez proxy SOCKS (np. gdy łączysz się poprzez Tor&apos;a)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BulbaCoin.</source>
-        <translation>Można tu ustawić język interfejsu uzytkownika. Żeby ustawienie przyniosło skutek trzeba uruchomić ponownie BulbaCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GoldenLoaf.</source>
+        <translation>Można tu ustawić język interfejsu uzytkownika. Żeby ustawienie przyniosło skutek trzeba uruchomić ponownie GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BulbaCoin addresses in the transaction list or not.</source>
-        <translation>Pokazuj adresy BulbaCoin na liście transakcji.</translation>
+        <source>Whether to show GoldenLoaf addresses in the transaction list or not.</source>
+        <translation>Pokazuj adresy GoldenLoaf na liście transakcji.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BulbaCoin.</source>
-        <translation>To ustawienie zostanie zastosowane po restarcie BulbaCoin</translation>
+        <source>This setting will take effect after restarting GoldenLoaf.</source>
+        <translation>To ustawienie zostanie zastosowane po restarcie GoldenLoaf</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BulbaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią bulbacoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoldenLoaf network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią goldenloaf, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,7 +1069,7 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start bulbacoin: click-to-pay handler</source>
+        <source>Cannot start goldenloaf: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BulbaCoin-Qt help message to get a list with possible BulbaCoin command-line options.</source>
-        <translation>Pokaż pomoc BulbaCoin-Qt, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
+        <source>Show the GoldenLoaf-Qt help message to get a list with possible GoldenLoaf command-line options.</source>
+        <translation>Pokaż pomoc GoldenLoaf-Qt, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,12 +1239,12 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>BulbaCoin - Debug window</source>
-        <translation>BulbaCoin - Okno debudowania</translation>
+        <source>GoldenLoaf - Debug window</source>
+        <translation>GoldenLoaf - Okno debudowania</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BulbaCoin Core</source>
+        <source>GoldenLoaf Core</source>
         <translation>Rdzeń BitCoin</translation>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BulbaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the GoldenLoaf debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the BulbaCoin RPC console.</source>
-        <translation>Witam w konsoli BulbaCoin RPC</translation>
+        <source>Welcome to the GoldenLoaf RPC console.</source>
+        <translation>Witam w konsoli GoldenLoaf RPC</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1385,7 +1385,7 @@ Adres: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Błąd: transakcja została odrzucona. Może się to zdarzyć, gdy monety z Twojego portfela zostały już wydane, na przykład gdy używałeś kopii wallet.dat i bulbacoiny które tam wydałeś nie zostały jeszcze odjęte z portfela z którego teraz korzystasz.</translation>
+        <translation>Błąd: transakcja została odrzucona. Może się to zdarzyć, gdy monety z Twojego portfela zostały już wydane, na przykład gdy używałeś kopii wallet.dat i goldenloafy które tam wydałeś nie zostały jeszcze odjęte z portfela z którego teraz korzystasz.</translation>
     </message>
 </context>
 <context>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
-        <translation>Wprowadź adres BulbaCoin (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
+        <translation>Wprowadź adres GoldenLoaf (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1472,7 @@ Adres: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Wprowadź adres BulbaCoin (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Wprowadź adres GoldenLoaf (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,7 +1513,7 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BulbaCoin address</source>
+        <source>Sign the message to prove you own this GoldenLoaf address</source>
         <translation>Podpisz wiadomość aby dowieść, że ten adres jest twój</translation>
     </message>
     <message>
@@ -1545,12 +1545,12 @@ Adres: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Wprowadź adres BulbaCoin (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Wprowadź adres GoldenLoaf (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BulbaCoin address</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem BulbaCoin.</translation>
+        <source>Verify the message to ensure it was signed with the specified GoldenLoaf address</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
-        <translation>Wprowadź adres BulbaCoin (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
+        <translation>Wprowadź adres GoldenLoaf (np. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BulbaCoin signature</source>
-        <translation>Wprowadź podpis BulbaCoin</translation>
+        <source>Enter GoldenLoaf signature</source>
+        <translation>Wprowadź podpis GoldenLoaf</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The BulbaCoin developers</source>
-        <translation>Deweloperzy BulbaCoin</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>Deweloperzy GoldenLoaf</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>BulbaCoin version</source>
-        <translation>Wersja BulbaCoin</translation>
+        <source>GoldenLoaf version</source>
+        <translation>Wersja GoldenLoaf</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or bulbacoind</source>
-        <translation>Wyślij polecenie do -server lub bulbacoind</translation>
+        <source>Send command to -server or goldenloafd</source>
+        <translation>Wyślij polecenie do -server lub goldenloafd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bulbacoin.conf)</source>
-        <translation>Wskaż plik konfiguracyjny (domyślnie: bulbacoin.conf)</translation>
+        <source>Specify configuration file (default: goldenloaf.conf)</source>
+        <translation>Wskaż plik konfiguracyjny (domyślnie: goldenloaf.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: bulbacoind.pid)</source>
-        <translation>Wskaż plik pid (domyślnie: bulbacoin.pid)</translation>
+        <source>Specify pid file (default: goldenloafd.pid)</source>
+        <translation>Wskaż plik pid (domyślnie: goldenloaf.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,24 +2300,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=bulbacoinrpc
+rpcuser=goldenloafrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BulbaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GoldenLoaf Alert&quot; admin@foo.com
 </source>
         <translation>%s, musisz ustawić rpcpassword w pliku konfiguracyjnym:⏎
 %s⏎
 Zalecane jest użycie losowego hasła:⏎
-rpcuser=bulbacoinrpc⏎
+rpcuser=goldenloafrpc⏎
 rpcpassword=%s⏎
 (nie musisz pamiętać tego hasła)⏎
 Użytkownik i hasło nie mogą być takie same.⏎
 Jeśli plik nie istnieje, utwórz go z uprawnieniami tylko-do-odczytu dla właściciela.⏎
 Zalecane jest ustawienie alertnotify aby poinformować o problemach:⏎
-na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@foo.com⏎</translation>
+na przykład: alertnotify=echo %%s | mail -s &quot;Alarm GoldenLoaf&quot; admin@foo.com⏎</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2331,8 +2331,8 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BulbaCoin is probably already running.</source>
-        <translation>Nie można zablokować folderu danych %s.  BulbaCoin prawdopodobnie już działa.</translation>
+        <source>Cannot obtain a lock on data directory %s. GoldenLoaf is probably already running.</source>
+        <translation>Nie można zablokować folderu danych %s.  GoldenLoaf prawdopodobnie już działa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BulbaCoin will not work properly.</source>
-        <translation>Uwaga: Sprawdź czy data i czas na Twoim komputerze są prawidłowe! Jeśli nie to BulbaCoin nie będzie działał prawidłowo.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoldenLoaf will not work properly.</source>
+        <translation>Uwaga: Sprawdź czy data i czas na Twoim komputerze są prawidłowe! Jeśli nie to GoldenLoaf nie będzie działał prawidłowo.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@f
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the BulbaCoin Wiki for SSL setup instructions)</source>
-        <translation>Opcje SSL: (odwiedź BulbaCoin Wiki w celu uzyskania instrukcji)</translation>
+        <source>SSL options: (see the GoldenLoaf Wiki for SSL setup instructions)</source>
+        <translation>Opcje SSL: (odwiedź GoldenLoaf Wiki w celu uzyskania instrukcji)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BulbaCoin</source>
-        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji BulbaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GoldenLoaf</source>
+        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji GoldenLoaf</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart BulbaCoin to complete</source>
-        <translation>Portfel wymaga przepisania: zrestartuj BulbaCoina żeby ukończyć</translation>
+        <source>Wallet needed to be rewritten: restart GoldenLoaf to complete</source>
+        <translation>Portfel wymaga przepisania: zrestartuj GoldenLoafa żeby ukończyć</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm BulbaCoin&quot; admin@f
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. BulbaCoin is probably already running.</source>
-        <translation>Nie można przywiązać %s na tym komputerze. BulbaCoin prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. GoldenLoaf is probably already running.</source>
+        <translation>Nie można przywiązać %s na tym komputerze. GoldenLoaf prawdopodobnie już działa.</translation>
     </message>
     <message>
         <location line="+64"/>

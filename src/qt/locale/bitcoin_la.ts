@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BulbaCoin</source>
-        <translation>Informatio de BulbaCoin</translation>
+        <source>About GoldenLoaf</source>
+        <translation>Informatio de GoldenLoaf</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BulbaCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BulbaCoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;GoldenLoaf&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;GoldenLoaf&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The BulbaCoin developers</source>
-        <translation>BulbaCoin curatores</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>GoldenLoaf curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your BulbaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones BulbaCoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your GoldenLoaf addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones GoldenLoaf tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BulbaCoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem BulbaCoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a GoldenLoaf address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem GoldenLoaf a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified BulbaCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione BulbaCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified GoldenLoaf address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione GoldenLoaf</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your BulbaCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GoldenLoaf addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BULBACOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GOLDENLOAFS&lt;/b&gt;!</source>
         <translation>Monitio: Si cassidile tuum cifras et tesseram amittis, tu &lt;b&gt;AMITTES OMNES TUOS NUMMOS BITOS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>BulbaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bulbacoins from being stolen by malware infecting your computer.</source>
-        <translation>BulbaCoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>GoldenLoaf will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your goldenloafs from being stolen by malware infecting your computer.</source>
+        <translation>GoldenLoaf iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BulbaCoin</source>
-        <translation>Monstra informationem de BulbaCoin</translation>
+        <source>Show information about GoldenLoaf</source>
+        <translation>Monstra informationem de GoldenLoaf</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a BulbaCoin address</source>
-        <translation>Mitte nummos ad inscriptionem BulbaCoin</translation>
+        <source>Send coins to a GoldenLoaf address</source>
+        <translation>Mitte nummos ad inscriptionem GoldenLoaf</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for BulbaCoin</source>
-        <translation>Muta configurationis optiones pro BulbaCoin</translation>
+        <source>Modify configuration options for GoldenLoaf</source>
+        <translation>Muta configurationis optiones pro GoldenLoaf</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>BulbaCoin</source>
-        <translation>BulbaCoin</translation>
+        <source>GoldenLoaf</source>
+        <translation>GoldenLoaf</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About BulbaCoin</source>
-        <translation>&amp;Informatio de BulbaCoin</translation>
+        <source>&amp;About GoldenLoaf</source>
+        <translation>&amp;Informatio de GoldenLoaf</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your BulbaCoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus BulbaCoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your GoldenLoaf addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus GoldenLoaf ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified BulbaCoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus BulbaCoin</translation>
+        <source>Verify messages to ensure they were signed with specified GoldenLoaf addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus GoldenLoaf</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>BulbaCoin client</source>
-        <translation>BulbaCoin cliens</translation>
+        <source>GoldenLoaf client</source>
+        <translation>GoldenLoaf cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to BulbaCoin network</source>
-        <translation><numerusform>%n activa conexio ad rete BulbaCoin</numerusform><numerusform>%n activae conexiones ad rete BulbaCoin</numerusform></translation>
+        <source>%n active connection(s) to GoldenLoaf network</source>
+        <translation><numerusform>%n activa conexio ad rete GoldenLoaf</numerusform><numerusform>%n activae conexiones ad rete GoldenLoaf</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid BulbaCoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem BulbaCoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid GoldenLoaf address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem GoldenLoaf non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. BulbaCoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  BulbaCoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. GoldenLoaf can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  GoldenLoaf nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BulbaCoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio BulbaCoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid GoldenLoaf address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio GoldenLoaf est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>BulbaCoin-Qt</source>
-        <translation>BulbaCoin-Qt</translation>
+        <source>GoldenLoaf-Qt</source>
+        <translation>GoldenLoaf-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BulbaCoin after logging in to the system.</source>
-        <translation>Pelle BulbaCoin per se postquam in systema inire.</translation>
+        <source>Automatically start GoldenLoaf after logging in to the system.</source>
+        <translation>Pelle GoldenLoaf per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BulbaCoin on system login</source>
-        <translation>&amp;Pelle BulbaCoin cum inire systema</translation>
+        <source>&amp;Start GoldenLoaf on system login</source>
+        <translation>&amp;Pelle GoldenLoaf cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BulbaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis BulbaCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the GoldenLoaf client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis GoldenLoaf in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BulbaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete BulbaCoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the GoldenLoaf network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete GoldenLoaf per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BulbaCoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam BulbaCoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting GoldenLoaf.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam GoldenLoaf iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BulbaCoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones BulbaCoin in enumeratione transactionum.</translation>
+        <source>Whether to show GoldenLoaf addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones GoldenLoaf in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BulbaCoin.</source>
-        <translation>Haec configuratio effectiva erit postquam BulbaCoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting GoldenLoaf.</source>
+        <translation>Haec configuratio effectiva erit postquam GoldenLoaf iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BulbaCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete BulbaCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoldenLoaf network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete GoldenLoaf postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start bulbacoin: click-to-pay handler</source>
-        <translation>BulbaCoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start goldenloaf: click-to-pay handler</source>
+        <translation>GoldenLoaf incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BulbaCoin-Qt help message to get a list with possible BulbaCoin command-line options.</source>
-        <translation>Monstra nuntium auxilii BulbaCoin-Qt ut videas enumerationem possibilium optionum BulbaCoin mandati initiantis.</translation>
+        <source>Show the GoldenLoaf-Qt help message to get a list with possible GoldenLoaf command-line options.</source>
+        <translation>Monstra nuntium auxilii GoldenLoaf-Qt ut videas enumerationem possibilium optionum GoldenLoaf mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>BulbaCoin - Debug window</source>
-        <translation>BulbaCoin - Fenestra debug</translation>
+        <source>GoldenLoaf - Debug window</source>
+        <translation>GoldenLoaf - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BulbaCoin Core</source>
-        <translation>BulbaCoin Nucleus</translation>
+        <source>GoldenLoaf Core</source>
+        <translation>GoldenLoaf Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BulbaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de BulbaCoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the GoldenLoaf debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de GoldenLoaf debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the BulbaCoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de BulbaCoin.</translation>
+        <source>Welcome to the GoldenLoaf RPC console.</source>
+        <translation>Bene ventio in terminale RPC de GoldenLoaf.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
-        <translation>Insero inscriptionem BulbaCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
+        <translation>Insero inscriptionem GoldenLoaf (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BulbaCoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem BulbaCoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this GoldenLoaf address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem GoldenLoaf a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BulbaCoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione BulbaCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified GoldenLoaf address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione GoldenLoaf</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
-        <translation>Insere inscriptionem BulbaCoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
+        <translation>Insere inscriptionem GoldenLoaf (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BulbaCoin signature</source>
-        <translation>Insere signationem BulbaCoin</translation>
+        <source>Enter GoldenLoaf signature</source>
+        <translation>Insere signationem GoldenLoaf</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The BulbaCoin developers</source>
-        <translation>BulbaCoin curatores</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>GoldenLoaf curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>BulbaCoin version</source>
-        <translation>Versio de BulbaCoin</translation>
+        <source>GoldenLoaf version</source>
+        <translation>Versio de GoldenLoaf</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or bulbacoind</source>
-        <translation>Mitte mandatum ad -server vel bulbacoind</translation>
+        <source>Send command to -server or goldenloafd</source>
+        <translation>Mitte mandatum ad -server vel goldenloafd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bulbacoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: bulbacoin.conf)</translation>
+        <source>Specify configuration file (default: goldenloaf.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: goldenloaf.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: bulbacoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: bulbacoin.pid)</translation>
+        <source>Specify pid file (default: goldenloafd.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: goldenloaf.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=bulbacoinrpc
+rpcuser=goldenloafrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BulbaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GoldenLoaf Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=bulbacoinrpc
+rpcuser=goldenloafrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;GoldenLoaf Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BulbaCoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  BulbaCoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. GoldenLoaf is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  GoldenLoaf probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot;
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BulbaCoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, BulbaCoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoldenLoaf will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, GoldenLoaf non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot;
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the BulbaCoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de BulbaCoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the GoldenLoaf Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de GoldenLoaf pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot;
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BulbaCoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio BulbaCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GoldenLoaf</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio GoldenLoaf</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart BulbaCoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle BulbaCoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart GoldenLoaf to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle GoldenLoaf ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;BulbaCoin Notificatio&quot;
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. BulbaCoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  BulbaCoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. GoldenLoaf is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  GoldenLoaf probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>

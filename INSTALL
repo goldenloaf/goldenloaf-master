@@ -1,9 +1,9 @@
-Building BulbaCoin
+Building GoldenLoaf
 
-See doc/readme-qt.rst for instructions on building BulbaCoin-Qt,
+See doc/readme-qt.rst for instructions on building GoldenLoaf-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of BulbaCoin.
+implementation of GoldenLoaf.
 
-See doc/build-*.txt for instructions on building bulbacoind,
+See doc/build-*.txt for instructions on building goldenloafd,
 the intended-for-services, no-graphical-interface, reference
-implementation of BulbaCoin.
+implementation of GoldenLoaf.

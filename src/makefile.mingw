@@ -119,10 +119,10 @@ OBJS= \
     obj/shavite.o \
     obj/simd.o 
 
-all: bulbacoind.exe
+all: goldenloafd.exe
 
-test check: test_bulbacoin.exe FORCE
-	test_bulbacoin.exe
+test check: test_goldenloaf.exe FORCE
+	test_goldenloaf.exe
 
 #
 # LevelDB support
@@ -142,7 +142,7 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CXX) -c $(CFLAGS) -fpermissive -o $@ $<
 
-bulbacoind.exe: $(OBJS:obj/%=obj/%)
+goldenloafd.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -150,11 +150,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_bulbacoin.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+test_goldenloaf.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework$(BOOST_SUFFIX) $(LIBS)
 
 clean:
-	rm -f bulbacoind.exe test_bulbacoin.exe
+	rm -f goldenloafd.exe test_goldenloaf.exe
 	rm -f obj/*
 	rm -f obj-test/*
 	cd leveldb && $(MAKE) TARGET_OS=NATIVE_WINDOWS clean && cd ..

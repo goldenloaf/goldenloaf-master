@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BulbaCoin</source>
+        <source>About GoldenLoaf</source>
         <translation>关于暗黑币</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BulbaCoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;GoldenLoaf&lt;/b&gt; version</source>
         <translation>&lt;b&gt;暗黑币&lt;/b&gt;版本</translation>
     </message>
     <message>
@@ -34,8 +34,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The BulbaCoin developers</source>
-        <translation>BulbaCoin-qt 客户端开发团队</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>GoldenLoaf-qt 客户端开发团队</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your BulbaCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your GoldenLoaf addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>这是您用来收款的暗黑币地址。为了标记不同的资金来源，建议为每个付款人保留不同的收款地址。</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a BulbaCoin address</source>
+        <source>Sign a message to prove you own a GoldenLoaf address</source>
         <translation>签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified BulbaCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified GoldenLoaf address</source>
         <translation>验证消息，确保消息是由指定的暗黑币地址签名过的。</translation>
     </message>
     <message>
@@ -122,7 +122,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your BulbaCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your GoldenLoaf addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这是您用来付款的暗黑币地址。在付款前，请总是核实付款金额和收款地址。</translation>
     </message>
     <message>
@@ -248,7 +248,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BULBACOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GOLDENLOAFS&lt;/b&gt;!</source>
         <translation>警告：如果您加密了您的钱包，但是忘记了密码，你将会&lt;b&gt;丢失所有的暗黑币&lt;/b&gt;！</translation>
     </message>
     <message>
@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>BulbaCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bulbacoins from being stolen by malware infecting your computer.</source>
+        <source>GoldenLoaf will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your goldenloafs from being stolen by malware infecting your computer.</source>
         <translation>将关闭软件以完成加密过程。 请您谨记：钱包加密并不是万能的，电脑中毒，您的暗黑币还是有可能丢失。</translation>
     </message>
     <message>
@@ -374,7 +374,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BulbaCoin</source>
+        <source>Show information about GoldenLoaf</source>
         <translation>显示暗黑币的相关信息</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a BulbaCoin address</source>
+        <source>Send coins to a GoldenLoaf address</source>
         <translation>向一个暗黑币地址发送暗黑币</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for BulbaCoin</source>
+        <source>Modify configuration options for GoldenLoaf</source>
         <translation>设置选项</translation>
     </message>
     <message>
@@ -455,7 +455,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>BulbaCoin</source>
+        <source>GoldenLoaf</source>
         <translation>暗黑币</translation>
     </message>
     <message>
@@ -480,7 +480,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About BulbaCoin</source>
+        <source>&amp;About GoldenLoaf</source>
         <translation>&amp;关于暗黑币</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your BulbaCoin addresses to prove you own them</source>
+        <source>Sign messages with your GoldenLoaf addresses to prove you own them</source>
         <translation>用暗黑币地址关联的私钥为消息签名，以证明您拥有这个暗黑币地址</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified BulbaCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified GoldenLoaf addresses</source>
         <translation>校验消息，确保该消息是由指定的暗黑币地址所有者签名的</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>BulbaCoin client</source>
+        <source>GoldenLoaf client</source>
         <translation>暗黑币客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to BulbaCoin network</source>
+        <source>%n active connection(s) to GoldenLoaf network</source>
         <translation><numerusform>到暗黑币网络的连接共有%n条</numerusform></translation>
     </message>
     <message>
@@ -656,7 +656,7 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid BulbaCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid GoldenLoaf address or malformed URI parameters.</source>
         <translation>URI无法解析！原因可能是暗黑币地址不正确，或者URI参数错误。</translation>
     </message>
     <message>
@@ -671,7 +671,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. BulbaCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. GoldenLoaf can no longer continue safely and will quit.</source>
         <translation>发生严重错误。</translation>
     </message>
 </context>
@@ -737,7 +737,7 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BulbaCoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid GoldenLoaf address.</source>
         <translation>您输入的 &quot;%1&quot; 不是合法的暗黑币地址.</translation>
     </message>
     <message>
@@ -756,8 +756,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>BulbaCoin-Qt</source>
-        <translation>BulbaCoin-Qt</translation>
+        <source>GoldenLoaf-Qt</source>
+        <translation>GoldenLoaf-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,12 +820,12 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BulbaCoin after logging in to the system.</source>
+        <source>Automatically start GoldenLoaf after logging in to the system.</source>
         <translation>登录系统后自动开启暗黑币客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BulbaCoin on system login</source>
+        <source>&amp;Start GoldenLoaf on system login</source>
         <translation>启动时&amp;运行</translation>
     </message>
     <message>
@@ -845,7 +845,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BulbaCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the GoldenLoaf client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动在路由器中打开暗黑币端口。只有当您的路由器开启 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the BulbaCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the GoldenLoaf network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>通过代理服务器连接暗黑币网络(例如：通过Tor连接)</translation>
     </message>
     <message>
@@ -930,7 +930,7 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BulbaCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting GoldenLoaf.</source>
         <translation>在这里设置用户界面的语言。设置将在客户端重启后生效。</translation>
     </message>
     <message>
@@ -945,7 +945,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show BulbaCoin addresses in the transaction list or not.</source>
+        <source>Whether to show GoldenLoaf addresses in the transaction list or not.</source>
         <translation>是否需要在交易清单中显示暗黑币地址。</translation>
     </message>
     <message>
@@ -997,7 +997,7 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BulbaCoin.</source>
+        <source>This setting will take effect after restarting GoldenLoaf.</source>
         <translation>需要重启客户端软件才能生效。</translation>
     </message>
     <message>
@@ -1016,7 +1016,7 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BulbaCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoldenLoaf network after a connection is established, but this process has not completed yet.</source>
         <translation>现在显示的消息可能是过期的. 在连接上暗黑币网络节点后，您的钱包将自动与网络同步，但是这个过程还没有完成.</translation>
     </message>
     <message>
@@ -1070,7 +1070,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start bulbacoin: click-to-pay handler</source>
+        <source>Cannot start goldenloaf: click-to-pay handler</source>
         <translation>暂时无法启动暗黑币：点击支付功能</translation>
     </message>
 </context>
@@ -1220,8 +1220,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BulbaCoin-Qt help message to get a list with possible BulbaCoin command-line options.</source>
-        <translation>显示BulbaCoin命令行选项帮助信息</translation>
+        <source>Show the GoldenLoaf-Qt help message to get a list with possible GoldenLoaf command-line options.</source>
+        <translation>显示GoldenLoaf命令行选项帮助信息</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,12 +1240,12 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>BulbaCoin - Debug window</source>
+        <source>GoldenLoaf - Debug window</source>
         <translation>暗黑币 - 调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BulbaCoin Core</source>
+        <source>GoldenLoaf Core</source>
         <translation>暗黑币核心</translation>
     </message>
     <message>
@@ -1255,7 +1255,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BulbaCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the GoldenLoaf debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开当前目录中的调试日志文件。日志文件大的话可能要等上几秒钟。</translation>
     </message>
     <message>
@@ -1265,7 +1265,7 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the BulbaCoin RPC console.</source>
+        <source>Welcome to the GoldenLoaf RPC console.</source>
         <translation>欢迎来到 RPC 控制台.</translation>
     </message>
     <message>
@@ -1449,7 +1449,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
         <translation>请输入暗黑币地址 (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1514,7 +1514,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BulbaCoin address</source>
+        <source>Sign the message to prove you own this GoldenLoaf address</source>
         <translation>签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -1550,7 +1550,7 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BulbaCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified GoldenLoaf address</source>
         <translation>验证消息，确保消息是由指定的暗黑币地址签名过的。</translation>
     </message>
     <message>
@@ -1566,7 +1566,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BulbaCoin address (they start with an 'P')</source>
+        <source>Enter a GoldenLoaf address (they start with an 'P')</source>
         <translation>请输入暗黑币地址 (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1576,7 +1576,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BulbaCoin signature</source>
+        <source>Enter GoldenLoaf signature</source>
         <translation>输入暗黑币签名</translation>
     </message>
     <message>
@@ -1650,8 +1650,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The BulbaCoin developers</source>
-        <translation>BulbaCoin-qt 客户端开发团队</translation>
+        <source>The GoldenLoaf developers</source>
+        <translation>GoldenLoaf-qt 客户端开发团队</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,7 +2188,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>BulbaCoin version</source>
+        <source>GoldenLoaf version</source>
         <translation>暗黑币版本</translation>
     </message>
     <message>
@@ -2198,8 +2198,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or bulbacoind</source>
-        <translation>发送命令到服务器或者 bulbacoind
+        <source>Send command to -server or goldenloafd</source>
+        <translation>发送命令到服务器或者 goldenloafd
 </translation>
     </message>
     <message>
@@ -2222,14 +2222,14 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bulbacoin.conf)</source>
-        <translation>指定配置文件 (默认为 bulbacoin.conf)
+        <source>Specify configuration file (default: goldenloaf.conf)</source>
+        <translation>指定配置文件 (默认为 goldenloaf.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: bulbacoind.pid)</source>
-        <translation>指定 pid 文件 (默认为 bulbacoind.pid)
+        <source>Specify pid file (default: goldenloafd.pid)</source>
+        <translation>指定 pid 文件 (默认为 goldenloafd.pid)
 </translation>
     </message>
     <message>
@@ -2312,24 +2312,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=bulbacoinrpc
+rpcuser=goldenloafrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BulbaCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;GoldenLoaf Alert&quot; admin@foo.com
 </source>
         <translation>%s, 您必须在配置文件设置rpcpassword:
  %s
 建议您使用下面的随机密码:
-rpcuser=bulbacoinrpc
+rpcuser=goldenloafrpc
 rpcpassword=%s
 (您无需记住此密码)
 用户名和密码 必! 须! 不一样。
 如果配置文件不存在，请自行建立一个只有所有者拥有只读权限的文件。
 推荐您开启提示通知以便收到错误通知，
-像这样: alertnotify=echo %%s | mail -s &quot;BulbaCoin Alert&quot; admin@foo.com
+像这样: alertnotify=echo %%s | mail -s &quot;GoldenLoaf Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2344,7 +2344,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BulbaCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. GoldenLoaf is probably already running.</source>
         <translation>无法给数据目录 %s上锁。本软件可能已经在运行。</translation>
     </message>
     <message>
@@ -2389,7 +2389,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BulbaCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoldenLoaf will not work properly.</source>
         <translation>警告：请检查电脑的日期时间设置是否正确！时间错误可能会导致暗黑币客户端运行异常。</translation>
     </message>
     <message>
@@ -2639,8 +2639,8 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the BulbaCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL选项：(参见BulbaCoin Wiki关于SSL设置栏目)</translation>
+        <source>SSL options: (see the GoldenLoaf Wiki for SSL setup instructions)</source>
+        <translation>SSL选项：(参见GoldenLoaf Wiki关于SSL设置栏目)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2839,13 +2839,13 @@ rpcpassword=%s
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BulbaCoin</source>
-        <translation>wallet.dat钱包文件加载错误：请升级到最新BulbaCoin客户端</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of GoldenLoaf</source>
+        <translation>wallet.dat钱包文件加载错误：请升级到最新GoldenLoaf客户端</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart BulbaCoin to complete</source>
-        <translation>钱包文件需要重写：请退出并重新启动BulbaCoin客户端</translation>
+        <source>Wallet needed to be rewritten: restart GoldenLoaf to complete</source>
+        <translation>钱包文件需要重写：请退出并重新启动GoldenLoaf客户端</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2904,7 +2904,7 @@ rpcpassword=%s
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. BulbaCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. GoldenLoaf is probably already running.</source>
         <translation>无法在本机绑定 %s 端口 . 暗黑币客户端软件可能已经在运行.</translation>
     </message>
     <message>

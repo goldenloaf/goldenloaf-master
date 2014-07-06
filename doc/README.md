@@ -1,8 +1,8 @@
-Bulbacoin 0.9.3.x BULB
+Goldenloaf 0.9.3.x GLY
 ====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2014 Bulbacoin Developers
+Copyright (c) 2014 Goldenloaf Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -12,7 +12,7 @@ cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cry
 
 Intro
 ---------------------
-BulbaCoin is a free open source peer-to-peer electronic cash system that is
+GoldenLoaf is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -20,17 +20,17 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the Qt4 run-time libraries to run BulbaCoin-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run GoldenLoaf-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
 
 Unpack the files into a directory and run:
 
-- bin/32/bulbacoin-qt (GUI, 32-bit)
-- bin/32/bulbacoind (headless, 32-bit)
-- bin/64/bulbacoin-qt (GUI, 64-bit)
-- bin/64/bulbacoind (headless, 64-bit)
+- bin/32/goldenloaf-qt (GUI, 32-bit)
+- bin/32/goldenloafd (headless, 32-bit)
+- bin/64/goldenloaf-qt (GUI, 64-bit)
+- bin/64/goldenloafd (headless, 64-bit)
 
-See the documentation at the [BulbaCoin Wiki](http://bulbacoin.info)
+See the documentation at the [GoldenLoaf Wiki](http://goldenloaf.info)
 for help and more information.
 
 

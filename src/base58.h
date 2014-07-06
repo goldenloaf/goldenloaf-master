@@ -272,9 +272,9 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 25, // BulbaCoin addresses start with B
+        PUBKEY_ADDRESS = 38, // GoldenLoaf addresses start with G
         SCRIPT_ADDRESS = 5,
-        PUBKEY_ADDRESS_TEST = 26,
+        PUBKEY_ADDRESS_TEST = 39,
         SCRIPT_ADDRESS_TEST = 196,
     };
 
