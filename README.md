@@ -1,6 +1,6 @@
 ## Goldenloaf [GLY]
 
-![GoldenLoaf](http://mining-pool.in/images/goldenloaf.png?1)
+![GoldenLoaf](https://ip.bitcointalk.org/?u=http%3A%2F%2Fmining-pool.in%2Fimages%2FCoin_Yanukovich_2.png&t=543&c=qEomKL6Rd2caag)
 
 ## What is GoldenLoaf?
 
