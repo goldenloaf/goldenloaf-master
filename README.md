@@ -4,9 +4,8 @@
 
 ## What is GoldenLoaf?
 
-
-ОПИСАНИЕ ПОЗЖЕ
-
+Our coin created to share the cost of a massive paperweight in the form of a full-size loaf weighing two kilograms, made of gold, valuable items found in the former residence of Viktor Yanukovych “Mezhyhiria” near Kiev. “Mezhigorie” – Yanukovych private residence is near Kiev in the village Petrivtsi on the banks of the Dnieper. Until 2007, it was considered the seat of government, but then was put into private ownership. Yanukovych after fleeing the country was organized at the residence open access – there stretched regular patrons who have become massively spread in social networks photos rich decoration, artobektov and landscape.
+Our currency is created for direct exchange for Bitcoin. Traders will be able to exchange Bitcoins for GLY, or vice versa using the exchange, the development of which we will start soon. Our currency will consist of only 103,840 coins (approximate value of 2 kilograms of gold in U.S. dollars), which will be produced for 1 year. 
 
 
 
@@ -46,10 +45,10 @@ block 35541-350419 (11 mont 3 week) = 0.25 GLY <br>
 
 ## Ports
 
-RPC Port:  <br>
-P2P Port:  <br>
+RPC Port:  45995<br>
+P2P Port:  45996<br>
 
 ## Community
 
-forum:  <br>
+forum:  https://bitcointalk.org/index.php?topic=685042.0<br>
 
